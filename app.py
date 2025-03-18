@@ -1,7 +1,7 @@
 import functions
 
 retries = 5
-target = "arbol"
+target = "gatos"
 
 print("WORDLE: ADIVINA LA PALABRA DE 5 LETRAS")
 print("Tenes 5 intentos.")
